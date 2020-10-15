@@ -1,0 +1,4 @@
+#Tue Oct 13 20:47:48 ICT 2020
+base.0=D\:\\kuliah ajeng\\mobile\\intent\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
