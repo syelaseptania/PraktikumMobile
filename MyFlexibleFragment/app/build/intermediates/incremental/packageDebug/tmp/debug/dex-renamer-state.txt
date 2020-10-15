@@ -1,0 +1,4 @@
+#Thu Oct 15 07:01:25 ICT 2020
+base.0=D\:\\kuliah ajeng\\mobile\\MyFlexibleFragment\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
